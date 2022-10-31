@@ -1,4 +1,3 @@
-# com.ironhack.lab.3.02
 1. Normalize the following blog database and write the DDL scripts to create the database tables.
 ![writeDDL](https://drive.google.com/uc?export=view&id=1_WLhYkhTrKJU6g2PTN8nQj3Cr2SAFucb)
 2. Normalize the following airline database and write the DDL scripts to create the database tables.
